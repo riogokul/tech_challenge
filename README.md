@@ -1,1 +1,5 @@
-# tech_challenge
+# Tech_challenge
+
+```bash
+    pip install pandas numpy matplotlib
+```
