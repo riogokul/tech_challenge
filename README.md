@@ -8,11 +8,11 @@ To install all libraries used in the module
 ```bash
     pip install -r requirements.txt
 ```
-##To run the program
+## To run the program
 ```bash
     python main.py
 ```
-##To run the tests
+## To run the tests
 ```bash
     python -m unittest test.py -v
 ```
