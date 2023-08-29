@@ -1,5 +1,11 @@
 # Tech_challenge
 
+To install all libraries used
 ```bash
-    pip install pandas numpy matplotlib
+    pip install -r requirements.txt
+```
+
+To run the program
+```bash
+    python main.py
 ```
